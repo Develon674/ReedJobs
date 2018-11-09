@@ -17,7 +17,7 @@ return function(string $root_path, string $base_url) {
         'root_path' => $root_path,
         'version' => '0.1',
         'text_domain' => 'clarke_twitter',
-        'api_token' => '',
+        'api_token' => 'cd230636-ad34-42f2-8e97-07a1f469160b',
         'client_id' => ''
     ];
 };
