@@ -1,0 +1,22 @@
+{
+    "name": "develon674/reedjobs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "William Roberts",
+            "email": "william@buzzgraphicdesign.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "dhii/di" : "^0.2",
+        "dhii/memoize-memory" : "^0.2",
+        "dhii/composite-container" : "^0.1-alpha1"
+    },
+    "autoload" : {
+        "classmap" : [
+            "classes/"
+        ]
+    }
+}
