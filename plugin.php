@@ -10,7 +10,7 @@
 
 use Dhii\Cache\MemoryMemoizer;
 use Dhii\Di\CachingContainer;
-use Develon674\Reed_Jobs\Init;
+use Develon674\ReedJobs\Init;
 
 require_once("vendor/autoload.php"); // Requiring composer autoload
 
